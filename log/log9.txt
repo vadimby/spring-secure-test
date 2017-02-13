@@ -1,0 +1,27 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://www.facebook.com/
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: en-US,en;q=0.8,ru;q=0.6
+Cookie: JSESSIONID=4A9EE93C8C3E5D7803AD07BD36F37379
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+HTTP/1.1 200
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+X-Application-Context: application
+Last-Modified: Mon, 13 Feb 2017 21:42:21 GMT
+Accept-Ranges: bytes
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Content-Length: 628
+Date: Mon, 13 Feb 2017 22:06:07 GMT
